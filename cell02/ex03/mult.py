@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-first = int(input("Enter the first number: "))
-second = int(input("Enter the second number: "))
+first = int(input("Enter the first number:\n"))
+second = int(input("Enter the second number:\n"))
 result = first * second
 print(f"{first} x {second} = {result}")
 if result > 0:
